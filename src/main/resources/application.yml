@@ -1,0 +1,10 @@
+spring:
+#  config:
+#    activate:
+#      on-profile: local
+name: ChronicleSamples
+environment: local
+enabled: true
+
+chronicle-queue:
+  dir: "./store/"
