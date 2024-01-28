@@ -1,4 +1,4 @@
-package com.chronicle.sample.core.map;
+package com.samo.sample.core.map;
 
 import net.openhft.chronicle.map.*;
 
