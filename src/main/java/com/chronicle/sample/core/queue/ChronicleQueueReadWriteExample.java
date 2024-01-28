@@ -1,4 +1,4 @@
-package com.sachin.chronicle.sample.core.queue;
+package com.chronicle.sample.core.queue;
 
 import lombok.extern.log4j.Log4j2;
 

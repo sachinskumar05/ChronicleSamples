@@ -1,4 +1,4 @@
-package com.sachin.chronicle.sample.core.map;
+package com.chronicle.sample.core.map;
 
 import net.openhft.chronicle.map.*;
 
